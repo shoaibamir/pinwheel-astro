@@ -50,13 +50,13 @@ service:
     title: WHY SHOULD YOU CHOSE US, OUT OF THE MANY MOVING COMPANIES AVAILABLE IN DUBAI?
     description: We are amoung top 10 moving companies in UAE, We are the best Moving company in Dubai by Assosiation of Movers. 
     tab_list:
-        - title: Habit building essential choose habit
+        - title: Top 10 Moving Company in Dubai
           icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
           image: "/images/sells-by-country.png"
-        - title: Get an overview of Habit Calendars.
+        - title: Moving Professional with more than 10 years of experience.
           icon: "clock"  #icon package react-feather-icon [https://feathericons.com/]
           image: "/images/collaboration.png"
-        - title: Start building with Habitify platform
+        - title: Domestic and commercial shipping experties
           icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
           image: "/images/sells-by-country.png"
 
