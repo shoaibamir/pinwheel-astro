@@ -1,47 +1,47 @@
 ---
 banner:
   title: "Packers and Movers United Arab Emirates"
-  content: "A fully integrated suite of authentication & authoriz products, Stytch’s platform removes the headache of."
+  content: "Villa movers, Office movers, Furniture storage, Warehouse storage space, Commercial Storage, Packing boxes."
   image: /images/banner-img.png
   button:
-    label: Download The Theme
-    link: "https://themefisher.com/astro-themes/pinwheel-astro"
+    label: Get in Touch
+    link: "https://www.packersandmovers.ae/contact/"
     enable: true
 
 ##key features
 key_features:
-  title: "The Highlighting Part Of Our Solution"
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  title: "Moving and Logistics Services"
+  description: We are professional movers and packers in dubai, and offer wide range of logistics and shipping services.
   feature_list:
     - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
+      title: House Moving
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     - icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
+      title: Villa Moving
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
+      title: Office Moving
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     - icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
+      title: Furniture Storage
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     - icon: "monitor"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
+      title: International Moving
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
+      title: Local Moving
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
+      title: Packing Services
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     - icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
+      title: Office Storage
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
+      title: Shipping Services
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     - icon: "monitor"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
+      title: Customs Clearance
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 #service
