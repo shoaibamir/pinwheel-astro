@@ -1,26 +1,26 @@
 ---
 banner:
-  title: "Packers and Movers United Arab Emirates"
-  content: "Villa movers, Office movers, Furniture storage, Warehouse storage space, Commercial Storage, Packing boxes."
+  title: "Pakistan Cargo"
+  content: "Door to Door Cargo service to Pakistan from Dubai, Abu Dhabi, Sharjah."
   image: /images/banner-img.png
   button:
     label: Get in Touch
-    link: "https://www.packersandmovers.ae/contact/"
+    link: "https://www.pakistancargo.org/contact/"
     enable: true
 
 ##key features
 key_features:
-  title: "Moving and Logistics Services"
+  title: "Pakistan Cargo Services"
   description: We are professional movers and packers in dubai, and offer wide range of logistics and shipping services.
   feature_list:
     - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: House Moving
+      title: Door to door Cargo Servies
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     - icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Villa Moving
+      title: Sea Cargo Servcies
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Office Moving
+      title: Packing services
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     - icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
       title: Furniture Storage
@@ -32,7 +32,7 @@ key_features:
       title: Local Moving
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Packing Services
+      title: Full container
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     - icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
       title: Office Storage
@@ -47,8 +47,8 @@ key_features:
 #service
 service:
   homepage_tab:
-    title: WHY SHOULD YOU CHOSE US, OUT OF THE MANY MOVING COMPANIES AVAILABLE IN DUBAI?
-    description: We are amoung top 10 moving companies in UAE, We are the best Moving company in Dubai by Assosiation of Movers. 
+    title: WHY SHOULD YOU CHOSE US, OUT OF THE PAKISTANI CARGO COMPANIES AVAILABLE IN DUBAI?
+    description: We offer premium shipping solution using top class service provider to make the delivery safely, we don't use traditional Truck Adda systiem. 
     tab_list:
         - title: Top 10 Moving Company in Dubai
           icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
@@ -65,10 +65,10 @@ service:
       desctiption: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed
       image: "/images/collaboration.png"
       list:
-        - Supporting more than 119 country world
-        - Open transaction with more than currencies
+        - Export quality safe packing
+        - Local deliveries useing top courier companies
         - Customer Service with 79 languages
-    - title: Accountability that works for you
+    - title: Helps to make safe deliveries
       description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
       video:
         thumbnail: "/images/intro-thumbnail.png"
