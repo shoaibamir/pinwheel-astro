@@ -83,4 +83,4 @@ members:
       field: Software Engineer
       image: "/images/users/user-3.png"
 ---
-Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed magna dictum porta. Lorem
+We provide air cargo services to Pakistan from Dubai, Abu Dhabi, and other locations. Our door-to-door cargo service ensures that your cargo is picked up from your doorstep and delivered directly to the destination. We offer cargo services in Abu Dhabi and Dubai to Pakistan, ensuring that you have access to our services no matter where you are.

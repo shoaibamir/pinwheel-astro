@@ -69,7 +69,7 @@ service:
         - Local deliveries useing top courier companies
         - Customer Service with 79 languages
     - title: Helps to make safe deliveries
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+      description: We provide air cargo services to Pakistan from Dubai, Abu Dhabi, and other locations. Our door-to-door cargo service ensures that your cargo is picked up from your doorstep and delivered directly to the destination. We offer cargo services in Abu Dhabi and Dubai to Pakistan, ensuring that you have access to our services no matter where you are..
       video:
         thumbnail: "/images/intro-thumbnail.png"
         video_id: "g3-VxLQO7do"
